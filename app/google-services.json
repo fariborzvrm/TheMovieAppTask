@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "106763542349",
+    "firebase_url": "https://themoviedb-d7f31.firebaseio.com",
+    "project_id": "themoviedb-d7f31",
+    "storage_bucket": "themoviedb-d7f31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106763542349:android:b50b675bcbe92e7742a104",
+        "android_client_info": {
+          "package_name": "kashish.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106763542349-6l0bu1vhmpjjrrmlav7fnpn69a94k9ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIV9vedEtup0RQtYRtLYjd1KPObM2RKN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106763542349-6l0bu1vhmpjjrrmlav7fnpn69a94k9ur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
